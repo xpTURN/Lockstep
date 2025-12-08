@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+xpTURN.Lockstep.Tests.csproj
+xpTURN.Lockstep.Sample.csproj
+xpTURN.Lockstep.csproj
+/UserSettings
+/Replays
+/Logs
+Lockstep.sln
+/Library

@@ -1,0 +1,16 @@
+{
+    "name": "xpTURN.Lockstep.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:169f113c81c3048f2956d785b2922ae9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
