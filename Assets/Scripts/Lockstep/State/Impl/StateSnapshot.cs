@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 using System.Collections.Generic;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.State.Impl
+namespace xpTURN.Lockstep.State.Impl
 {
     /// <summary>
     /// State snapshot implementation

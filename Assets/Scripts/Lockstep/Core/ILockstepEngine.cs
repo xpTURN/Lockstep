@@ -1,7 +1,7 @@
 using System;
-using Lockstep.Network;
+using xpTURN.Lockstep.Network;
 
-namespace Lockstep.Core
+namespace xpTURN.Lockstep.Core
 {
     /// <summary>
     /// Lockstep engine state

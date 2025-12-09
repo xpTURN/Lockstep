@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Lockstep.Core.Impl
+namespace xpTURN.Lockstep.Core.Impl
 {
     /// <summary>
     /// Command base class

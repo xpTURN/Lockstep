@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Lockstep.Core;
+using xpTURN.Lockstep.Core;
 
-namespace Lockstep.Replay.Impl
+namespace xpTURN.Lockstep.Replay.Impl
 {
     /// <summary>
     /// Complete replay system implementation

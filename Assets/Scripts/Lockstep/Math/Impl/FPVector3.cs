@@ -1,7 +1,7 @@
 using System;
 using System.Numerics;
 
-namespace Lockstep.Math.Impl
+namespace xpTURN.Lockstep.Math.Impl
 {
     /// <summary>
     /// Fixed-point 3D vector implementation

@@ -1,4 +1,4 @@
-namespace Lockstep.State
+namespace xpTURN.Lockstep.State
 {
     /// <summary>
     /// State syncable object interface

@@ -1,8 +1,8 @@
 using NUnit.Framework;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// Command serialization/deserialization tests

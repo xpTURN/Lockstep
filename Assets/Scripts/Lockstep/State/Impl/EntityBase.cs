@@ -2,11 +2,11 @@ using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.State.Impl
+namespace xpTURN.Lockstep.State.Impl
 {
     /// <summary>
     /// Syncable entity base class

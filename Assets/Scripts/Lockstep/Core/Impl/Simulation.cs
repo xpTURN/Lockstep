@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.State;
-using Lockstep.State.Impl;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.State;
+using xpTURN.Lockstep.State.Impl;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.Core.Impl
+namespace xpTURN.Lockstep.Core.Impl
 {
     /// <summary>
     /// Simulation implementation

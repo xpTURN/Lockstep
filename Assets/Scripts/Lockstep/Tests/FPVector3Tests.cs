@@ -1,11 +1,11 @@
 using NUnit.Framework;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Math.Impl;
 using UnityEngine;
 using UnityEngine.TestTools;
 using System;
 using System.Text.RegularExpressions;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// FPVector3 vector operation tests

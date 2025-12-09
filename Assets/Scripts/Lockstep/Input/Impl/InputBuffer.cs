@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.Input.Impl
+namespace xpTURN.Lockstep.Input.Impl
 {
     /// <summary>
     /// Input buffer implementation

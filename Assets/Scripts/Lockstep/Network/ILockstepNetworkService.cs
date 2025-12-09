@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.Core;
+using xpTURN.Lockstep.Core;
 
-namespace Lockstep.Network
+namespace xpTURN.Lockstep.Network
 {
     /// <summary>
     /// Player information

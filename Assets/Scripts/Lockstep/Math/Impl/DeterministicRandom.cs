@@ -1,6 +1,6 @@
 using System;
 
-namespace Lockstep.Math.Impl
+namespace xpTURN.Lockstep.Math.Impl
 {
     /// <summary>
     /// Deterministic random number generator implementation (Xorshift128+ algorithm)

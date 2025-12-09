@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.Network;
+using xpTURN.Lockstep.Network;
 
-namespace Lockstep.Sample
+namespace xpTURN.Lockstep.Sample
 {
     /// <summary>
     /// Local test network transport

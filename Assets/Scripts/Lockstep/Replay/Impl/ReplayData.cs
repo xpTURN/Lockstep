@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.Replay.Impl
+namespace xpTURN.Lockstep.Replay.Impl
 {
     /// <summary>
     /// Replay metadata implementation

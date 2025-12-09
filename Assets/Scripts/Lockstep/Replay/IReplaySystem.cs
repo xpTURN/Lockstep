@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.Core;
+using xpTURN.Lockstep.Core;
 
-namespace Lockstep.Replay
+namespace xpTURN.Lockstep.Replay
 {
     /// <summary>
     /// Replay system state

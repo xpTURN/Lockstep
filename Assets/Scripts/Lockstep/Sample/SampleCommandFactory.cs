@@ -1,7 +1,7 @@
-using Lockstep.Core;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.Sample
+namespace xpTURN.Lockstep.Sample
 {
     /// <summary>
     /// Command factory for sample game

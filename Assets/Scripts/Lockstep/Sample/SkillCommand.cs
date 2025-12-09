@@ -1,7 +1,7 @@
 using System.IO;
-using Lockstep.Core.Impl;
+using xpTURN.Lockstep.Core.Impl;
 
-namespace Lockstep.Sample
+namespace xpTURN.Lockstep.Sample
 {
     /// <summary>
     /// Skill use command

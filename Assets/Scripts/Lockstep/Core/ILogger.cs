@@ -1,6 +1,6 @@
 using System;
 
-namespace Lockstep.Core
+namespace xpTURN.Lockstep.Core
 {
     /// <summary>
     /// Log level enumeration

@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.Core;
-using Lockstep.Network;
-using Lockstep.Input.Impl;
-using Lockstep.State.Impl;
-using Lockstep.Replay;
-using Lockstep.Replay.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Network;
+using xpTURN.Lockstep.Input.Impl;
+using xpTURN.Lockstep.State.Impl;
+using xpTURN.Lockstep.Replay;
+using xpTURN.Lockstep.Replay.Impl;
 
-namespace Lockstep.Core.Impl
+namespace xpTURN.Lockstep.Core.Impl
 {
     /// <summary>
     /// Lockstep configuration implementation

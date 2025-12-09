@@ -1,11 +1,11 @@
 using NUnit.Framework;
 using System.Collections.Generic;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.State.Impl;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.State.Impl;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// Simulation tests

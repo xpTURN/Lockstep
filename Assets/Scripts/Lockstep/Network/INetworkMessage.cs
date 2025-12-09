@@ -1,4 +1,4 @@
-namespace Lockstep.Network
+namespace xpTURN.Lockstep.Network
 {
     /// <summary>
     /// Network message type

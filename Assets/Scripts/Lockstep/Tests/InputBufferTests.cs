@@ -1,10 +1,10 @@
 using NUnit.Framework;
 using System.Linq;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.Input.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.Input.Impl;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// InputBuffer tests

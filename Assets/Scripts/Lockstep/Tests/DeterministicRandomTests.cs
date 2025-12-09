@@ -1,8 +1,8 @@
 using NUnit.Framework;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Math.Impl;
 using UnityEngine;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// DeterministicRandom deterministic random number generator tests

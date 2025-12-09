@@ -1,4 +1,4 @@
-namespace Lockstep.Core
+namespace xpTURN.Lockstep.Core
 {
     /// <summary>
     /// Command interface representing player input

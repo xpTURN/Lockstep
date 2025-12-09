@@ -1,6 +1,6 @@
 using System;
 
-namespace Lockstep.Network
+namespace xpTURN.Lockstep.Network
 {
     /// <summary>
     /// Network transport layer interface

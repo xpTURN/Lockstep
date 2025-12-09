@@ -1,4 +1,4 @@
-namespace Lockstep.Math
+namespace xpTURN.Lockstep.Math
 {
     /// <summary>
     /// Deterministic random number generator interface

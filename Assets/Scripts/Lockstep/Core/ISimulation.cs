@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Lockstep.Core
+namespace xpTURN.Lockstep.Core
 {
     /// <summary>
     /// Deterministic simulation interface

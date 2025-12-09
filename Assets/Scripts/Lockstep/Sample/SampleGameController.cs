@@ -1,8 +1,8 @@
 using UnityEngine;
-using Lockstep.Core;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.Sample
+namespace xpTURN.Lockstep.Sample
 {
     /// <summary>
     /// Sample game controller using the Lockstep system

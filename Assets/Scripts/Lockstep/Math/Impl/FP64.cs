@@ -1,7 +1,7 @@
 using System;
 using System.Numerics;
 
-namespace Lockstep.Math.Impl
+namespace xpTURN.Lockstep.Math.Impl
 {
     /// <summary>
     /// 64-bit fixed-point number implementation

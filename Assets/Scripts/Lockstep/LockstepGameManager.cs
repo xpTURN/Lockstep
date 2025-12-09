@@ -1,13 +1,13 @@
 #if UNITY_2021_1_OR_NEWER
 using UnityEngine;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.Network;
-using Lockstep.Network.Impl;
-using Lockstep.Input.Impl;
-using Lockstep.State.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.Network;
+using xpTURN.Lockstep.Network.Impl;
+using xpTURN.Lockstep.Input.Impl;
+using xpTURN.Lockstep.State.Impl;
 
-namespace Lockstep
+namespace xpTURN.Lockstep
 {
     /// <summary>
     /// Lockstep game manager

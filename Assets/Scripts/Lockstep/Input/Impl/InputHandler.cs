@@ -1,9 +1,9 @@
 using System;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.Input.Impl
+namespace xpTURN.Lockstep.Input.Impl
 {
     /// <summary>
     /// Default input handler implementation

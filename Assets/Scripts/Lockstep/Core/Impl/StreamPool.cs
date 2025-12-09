@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 
-namespace Lockstep.Core.Impl
+namespace xpTURN.Lockstep.Core.Impl
 {
     /// <summary>
     /// MemoryStream and byte array pooling utility (GC prevention)

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Lockstep.Core;
+using xpTURN.Lockstep.Core;
 
-namespace Lockstep.Input
+namespace xpTURN.Lockstep.Input
 {
     /// <summary>
     /// Input buffer interface

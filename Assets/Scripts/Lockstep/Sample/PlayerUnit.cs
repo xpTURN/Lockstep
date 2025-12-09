@@ -1,10 +1,10 @@
 using System.IO;
-using Lockstep.Core;
-using Lockstep.Core.Impl;
-using Lockstep.State.Impl;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Core.Impl;
+using xpTURN.Lockstep.State.Impl;
+using xpTURN.Lockstep.Math.Impl;
 
-namespace Lockstep.Sample
+namespace xpTURN.Lockstep.Sample
 {
     /// <summary>
     /// Unit controlled by the player

@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using Lockstep.Core;
-using Lockstep.Input.Impl;
+using xpTURN.Lockstep.Core;
+using xpTURN.Lockstep.Input.Impl;
 
-namespace Lockstep.Network.Impl
+namespace xpTURN.Lockstep.Network.Impl
 {
     /// <summary>
     /// Player info implementation

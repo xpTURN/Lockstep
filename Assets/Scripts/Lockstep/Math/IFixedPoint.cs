@@ -1,4 +1,4 @@
-namespace Lockstep.Math
+namespace xpTURN.Lockstep.Math
 {
     /// <summary>
     /// Fixed point number interface

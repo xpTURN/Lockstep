@@ -1,4 +1,4 @@
-namespace Lockstep.Math
+namespace xpTURN.Lockstep.Math
 {
     /// <summary>
     /// 2D fixed point vector interface

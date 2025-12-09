@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Lockstep.State
+namespace xpTURN.Lockstep.State
 {
     /// <summary>
     /// World state interface

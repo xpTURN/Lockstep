@@ -1,7 +1,7 @@
 using System;
-using Lockstep.Core;
+using xpTURN.Lockstep.Core;
 
-namespace Lockstep.Input
+namespace xpTURN.Lockstep.Input
 {
     /// <summary>
     /// Input handler interface

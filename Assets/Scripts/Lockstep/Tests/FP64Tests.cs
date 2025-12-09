@@ -1,9 +1,9 @@
 using UnityEngine;
 using NUnit.Framework;
-using Lockstep.Math.Impl;
+using xpTURN.Lockstep.Math.Impl;
 using System;
 
-namespace Lockstep.Tests
+namespace xpTURN.Lockstep.Tests
 {
     /// <summary>
     /// FP64 fixed point arithmetic tests
