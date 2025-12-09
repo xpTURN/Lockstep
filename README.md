@@ -312,4 +312,4 @@ stateDiagram-v2
 
 ## License
 
-MIT License
+Apache License, Version 2.0

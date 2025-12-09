@@ -320,4 +320,4 @@ stateDiagram-v2
 
 ## 라이선스
 
-MIT 라이선스
+Apache License, Version 2.0
